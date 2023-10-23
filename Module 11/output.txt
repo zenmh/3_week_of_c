@@ -1,0 +1,5 @@
+a is 3 times
+b is 1 times
+c is 1 times
+d is 2 times
+z is 3 times
